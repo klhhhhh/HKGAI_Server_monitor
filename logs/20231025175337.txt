@@ -1,0 +1,13 @@
+Checking GPU memory usage and utilization on 10.96.164.50 (1)
+Unable to determine the device handle for GPU0000:1B:00.0: Unknown Error
+Checking GPU memory usage and utilization on 10.96.164.51 (2)
+memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+78473 MiB, 81559 MiB, 87 %
+78797 MiB, 81559 MiB, 87 %
+78719 MiB, 81559 MiB, 88 %
+78437 MiB, 81559 MiB, 88 %
+78609 MiB, 81559 MiB, 91 %
+79295 MiB, 81559 MiB, 87 %
+78249 MiB, 81559 MiB, 88 %
+77969 MiB, 81559 MiB, 92 %
+Checking GPU memory usage and utilization on 10.96.164.52 (3)
