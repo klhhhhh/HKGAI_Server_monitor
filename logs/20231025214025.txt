@@ -2,40 +2,40 @@ Checking GPU memory usage and utilization on 10.96.164.50 (1)
 Unable to determine the device handle for GPU0000:1B:00.0: Unknown Error
 Checking GPU memory usage and utilization on 10.96.164.51 (2)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
-56221 MiB, 81559 MiB, 97 %
-55973 MiB, 81559 MiB, 96 %
+56221 MiB, 81559 MiB, 96 %
+55973 MiB, 81559 MiB, 88 %
 56127 MiB, 81559 MiB, 96 %
-56635 MiB, 81559 MiB, 97 %
-55713 MiB, 81559 MiB, 95 %
-55569 MiB, 81559 MiB, 97 %
-55787 MiB, 81559 MiB, 93 %
-56499 MiB, 81559 MiB, 98 %
+56635 MiB, 81559 MiB, 86 %
+55713 MiB, 81559 MiB, 90 %
+55569 MiB, 81559 MiB, 96 %
+55787 MiB, 81559 MiB, 92 %
+56499 MiB, 81559 MiB, 92 %
 Checking GPU memory usage and utilization on 10.96.164.52 (3)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
-14449 MiB, 81559 MiB, 94 %
-14491 MiB, 81559 MiB, 82 %
-14495 MiB, 81559 MiB, 94 %
-14327 MiB, 81559 MiB, 94 %
-14451 MiB, 81559 MiB, 90 %
-14487 MiB, 81559 MiB, 89 %
+14449 MiB, 81559 MiB, 91 %
+14491 MiB, 81559 MiB, 88 %
+14495 MiB, 81559 MiB, 91 %
+14327 MiB, 81559 MiB, 95 %
+14451 MiB, 81559 MiB, 81 %
+14487 MiB, 81559 MiB, 87 %
 14483 MiB, 81559 MiB, 89 %
-14323 MiB, 81559 MiB, 89 %
+14323 MiB, 81559 MiB, 81 %
 Checking GPU memory usage and utilization on 10.96.164.53 (4)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
 14455 MiB, 81559 MiB, 96 %
-14493 MiB, 81559 MiB, 94 %
-14483 MiB, 81559 MiB, 95 %
-14327 MiB, 81559 MiB, 94 %
-14455 MiB, 81559 MiB, 94 %
+14493 MiB, 81559 MiB, 89 %
+14483 MiB, 81559 MiB, 90 %
+14327 MiB, 81559 MiB, 90 %
+14455 MiB, 81559 MiB, 90 %
 14499 MiB, 81559 MiB, 95 %
 14487 MiB, 81559 MiB, 95 %
-14335 MiB, 81559 MiB, 94 %
+14335 MiB, 81559 MiB, 95 %
 Checking GPU memory usage and utilization on 10.96.164.54 (5)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+5873 MiB, 81559 MiB, 96 %
 5873 MiB, 81559 MiB, 98 %
-5891 MiB, 81559 MiB, 95 %
 5873 MiB, 81559 MiB, 98 %
-5873 MiB, 81559 MiB, 97 %
+5873 MiB, 81559 MiB, 98 %
 68875 MiB, 81559 MiB, 100 %
 68891 MiB, 81559 MiB, 100 %
 68891 MiB, 81559 MiB, 100 %
