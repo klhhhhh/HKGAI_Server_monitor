@@ -6,6 +6,6 @@ while true; do
   git add .
   git commit -m"update server_usuage.png"
   git push
-  sleep 300
+  sleep 600
 done
 
