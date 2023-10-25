@@ -13,19 +13,19 @@ memory.used [MiB], memory.total [MiB], utilization.gpu [%]
 Checking GPU memory usage and utilization on 10.96.164.52 (3)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
 14449 MiB, 81559 MiB, 94 %
-14491 MiB, 81559 MiB, 95 %
+14491 MiB, 81559 MiB, 90 %
 14495 MiB, 81559 MiB, 89 %
-14327 MiB, 81559 MiB, 94 %
+14327 MiB, 81559 MiB, 89 %
 14451 MiB, 81559 MiB, 95 %
-14487 MiB, 81559 MiB, 87 %
+14487 MiB, 81559 MiB, 90 %
 14483 MiB, 81559 MiB, 89 %
 14323 MiB, 81559 MiB, 88 %
 Checking GPU memory usage and utilization on 10.96.164.53 (4)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
-14455 MiB, 81559 MiB, 95 %
-14493 MiB, 81559 MiB, 95 %
-14483 MiB, 81559 MiB, 89 %
-14327 MiB, 81559 MiB, 90 %
+14455 MiB, 81559 MiB, 91 %
+14493 MiB, 81559 MiB, 91 %
+14483 MiB, 81559 MiB, 94 %
+14327 MiB, 81559 MiB, 95 %
 14455 MiB, 81559 MiB, 95 %
 14499 MiB, 81559 MiB, 94 %
 14487 MiB, 81559 MiB, 95 %
@@ -34,8 +34,8 @@ Checking GPU memory usage and utilization on 10.96.164.54 (5)
 memory.used [MiB], memory.total [MiB], utilization.gpu [%]
 5873 MiB, 81559 MiB, 97 %
 5873 MiB, 81559 MiB, 98 %
-5873 MiB, 81559 MiB, 98 %
 5873 MiB, 81559 MiB, 97 %
+5873 MiB, 81559 MiB, 98 %
 68875 MiB, 81559 MiB, 100 %
 68891 MiB, 81559 MiB, 100 %
 68891 MiB, 81559 MiB, 100 %
