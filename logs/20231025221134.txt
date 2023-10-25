@@ -1,0 +1,47 @@
+Checking GPU memory usage and utilization on 10.96.164.50 (1)
+Unable to determine the device handle for GPU0000:1B:00.0: Unknown Error
+Checking GPU memory usage and utilization on 10.96.164.51 (2)
+memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+56223 MiB, 81559 MiB, 100 %
+55975 MiB, 81559 MiB, 93 %
+56721 MiB, 81559 MiB, 100 %
+56635 MiB, 81559 MiB, 98 %
+55715 MiB, 81559 MiB, 100 %
+55765 MiB, 81559 MiB, 100 %
+55787 MiB, 81559 MiB, 100 %
+56501 MiB, 81559 MiB, 100 %
+Checking GPU memory usage and utilization on 10.96.164.52 (3)
+memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+14449 MiB, 81559 MiB, 94 %
+14491 MiB, 81559 MiB, 94 %
+14495 MiB, 81559 MiB, 89 %
+14327 MiB, 81559 MiB, 89 %
+14451 MiB, 81559 MiB, 82 %
+14487 MiB, 81559 MiB, 88 %
+14483 MiB, 81559 MiB, 89 %
+14323 MiB, 81559 MiB, 81 %
+Checking GPU memory usage and utilization on 10.96.164.53 (4)
+memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+14455 MiB, 81559 MiB, 95 %
+14493 MiB, 81559 MiB, 95 %
+14483 MiB, 81559 MiB, 95 %
+14327 MiB, 81559 MiB, 95 %
+14455 MiB, 81559 MiB, 95 %
+14499 MiB, 81559 MiB, 95 %
+14487 MiB, 81559 MiB, 95 %
+14335 MiB, 81559 MiB, 94 %
+Checking GPU memory usage and utilization on 10.96.164.54 (5)
+memory.used [MiB], memory.total [MiB], utilization.gpu [%]
+5873 MiB, 81559 MiB, 98 %
+5873 MiB, 81559 MiB, 97 %
+5873 MiB, 81559 MiB, 96 %
+5873 MiB, 81559 MiB, 98 %
+68875 MiB, 81559 MiB, 100 %
+68891 MiB, 81559 MiB, 100 %
+68891 MiB, 81559 MiB, 100 %
+68981 MiB, 81559 MiB, 100 %
+Checking GPU memory usage and utilization on 10.96.164.55 (6)
+Checking GPU memory usage and utilization on 10.96.164.56 (7)
+Checking GPU memory usage and utilization on 10.96.164.57 (8)
+Checking GPU memory usage and utilization on 10.96.164.58 (9)
+Checking GPU memory usage and utilization on 10.96.164.59 (10)
